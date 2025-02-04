@@ -13,7 +13,7 @@ Common use cases:
 
 | Name | Launch Date | Models | Features | Pricing |
 |------|-------------|---------|----------|---------|
-| [Cohere](https://cohere.com/) | 2023-09-21 | Command R+, Command R | Real-time search, Multi-language support | $1.50/1M tokens |
+| [Cohere](https://cohere.com/) | 2023-09-21 | Command R+, Command R | Real-time search, Multi-language support | $1.50/1M tokens<br>+ $1/1K requests  |
 | [Perplexity](https://docs.perplexity.ai/home) | 2025-01-21 | pplx-7b-online, pplx-70b-online | Research API, Streaming responses | sonar-small: $0.28/1M tokens<br>sonar-medium: $1.80/1M tokens<br>+ $5/1K requests |
 | [DuckHosting](https://www.duckhosting.lol/) | 2025-01-30 | DeepSeek-V3, DeepSeek-R1-llama70b | Autonomous research, RAG support | $1.15/1M tokens |
 
