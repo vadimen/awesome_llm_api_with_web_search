@@ -1,0 +1,46 @@
+name: Add API Service
+description: Suggest a new AI web search API service to be added to the list
+title: "Add: [API name]"
+body:
+  - type: input
+    id: api-name
+    attributes:
+      label: API Name
+      description: Name of the API service
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website/Documentation URL
+      description: Link to the API documentation or website
+    validations:
+      required: true
+  - type: input
+    id: launch-date
+    attributes:
+      label: Launch Date
+      description: When was the API publicly launched? (YYYY-MM-DD)
+    validations:
+      required: true
+  - type: input
+    id: models
+    attributes:
+      label: Supported Models
+      description: List the AI models supported by the API
+    validations:
+      required: true
+  - type: input
+    id: features
+    attributes:
+      label: Key Features
+      description: Main features of the API (comma separated)
+    validations:
+      required: true
+  - type: input
+    id: pricing
+    attributes:
+      label: Pricing
+      description: Pricing information
+    validations:
+      required: true
