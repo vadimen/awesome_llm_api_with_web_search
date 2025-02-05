@@ -22,5 +22,5 @@ Key aspects covered:
 | [DuckHosting](https://www.duckhosting.lol/) | 2025-01-30 | DeepSeek-V3, DeepSeek-R1-llama70b | Autonomous research, RAG support | $1.15/1M tokens | Free |
 | [Cohere](https://cohere.com/) | 2023-09-21 | Command R+, Command R | Customizable, Multi-language support | $1.50/1M tokens | $1/1K requests |
 | [Perplexity](https://sonar.perplexity.ai/) | 2025-01-21 | pplx-7b-online, pplx-70b-online, sonar | Research, Streaming responses | sonar-small: $0.28/1M tokens<br>sonar-medium: $1.80/1M tokens | $5/1K requests |
-| [InflectionAI](https://developers.inflection.ai/) | 2025-01-30 | Productivity Pi, Pi 3.0 | No Rate Limit | $2.50/1M input<br>$10/1M output | Free |
+| [InflectionAI](https://developers.inflection.ai/) | 2024-03-01 | Productivity Pi, Pi 3.0 | No Rate Limit | $2.50/1M input<br>$10/1M output | Free |
 

@@ -9,6 +9,8 @@ jobs:
     environment: hugging-face
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history to ensure proper sync
       - uses: JacobLinCool/huggingface-sync@v1
         with:
           github: ${{ secrets.GITHUB_TOKEN }}
@@ -16,3 +18,4 @@ jobs:
           space: ${{ vars.HF_SPACE_NAME }}
           token: ${{ secrets.HF_TOKEN }}
           configuration: ".github/hf-space-config.yml"
+          repository: ${{ github.repository }}  # Explicitly specify current repository
