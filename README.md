@@ -1,6 +1,6 @@
 # AI Web Search [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/topics/awesome)
 
-A curated list of AI-powered web search APIs, focusing on the intersection of Large Language Models (LLMs) and web search capabilities.
+A curated list of AI-powered web search APIs, focusing on the intersection of Large Language Models (LLMs) and web search capabilities, including their features and pricing information.
 
 ## Overview
 
@@ -9,11 +9,18 @@ Common use cases:
 - 💬 LLM chat with web search capabilities
 - 🤖 Autonomous web research and report generation
 
+Key aspects covered:
+- Launch dates and supported models
+- Core features and capabilities
+- Token-based pricing
+- Search request pricing
+
 ## API Services
 
-| Name | Launch Date | Models | Features | Pricing |
-|------|-------------|---------|----------|---------|
-| [Cohere](https://cohere.com/) | 2023-09-21 | Command R+, Command R | Real-time search, Multi-language support | $1.50/1M tokens<br>+ $1/1K requests  |
-| [Perplexity](https://docs.perplexity.ai/home) | 2025-01-21 | pplx-7b-online, pplx-70b-online | Research API, Streaming responses | sonar-small: $0.28/1M tokens<br>sonar-medium: $1.80/1M tokens<br>+ $5/1K requests |
-| [DuckHosting](https://www.duckhosting.lol/) | 2025-01-30 | DeepSeek-V3, DeepSeek-R1-llama70b | Autonomous research, RAG support | $1.15/1M tokens<br>+ $FREE/1K requests |
+| Name | Launch Date | Models | Features | Token Price | Search Price |
+|------|-------------|---------|----------|-------------|--------------|
+| [DuckHosting](https://www.duckhosting.lol/) | 2025-01-30 | DeepSeek-V3, DeepSeek-R1-llama70b | Autonomous research, RAG support | $1.15/1M tokens | Free |
+| [Cohere](https://cohere.com/) | 2023-09-21 | Command R+, Command R | Customizable, Multi-language support | $1.50/1M tokens | $1/1K requests |
+| [Perplexity](https://sonar.perplexity.ai/) | 2025-01-21 | pplx-7b-online, pplx-70b-online, sonar | Research, Streaming responses | sonar-small: $0.28/1M tokens<br>sonar-medium: $1.80/1M tokens | $5/1K requests |
+| [InflectionAI](https://developers.inflection.ai/) | 2025-01-30 | Productivity Pi, Pi 3.0 | No Rate Limit | $2.50/1M input<br>$10/1M output | Free |
 
