@@ -19,3 +19,5 @@ jobs:
           token: ${{ secrets.HF_TOKEN }}
           configuration: ".github/hf-space-config.yml"
           repository: ${{ github.repository }}  # Explicitly specify current repository
+          force: true  # Force push to override existing content
+          clean: true  # Clean existing files before sync
