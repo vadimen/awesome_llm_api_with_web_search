@@ -24,4 +24,5 @@ Key aspects covered:
 | [Perplexity](https://sonar.perplexity.ai/) | 2025-01-21 | pplx-7b-online, pplx-70b-online, sonar | Research, Streaming responses | sonar-small: $0.28/1M tokens<br>sonar-medium: $1.80/1M tokens | $5/1K requests |
 | [InflectionAI](https://developers.inflection.ai/) | 2024-03-01 | Productivity Pi, Pi 3.0 | No Rate Limit | $2.50/1M input<br>$10/1M output | Included |
 | [Kagi FastGPT](https://help.kagi.com/kagi/api/search.html) | 2023-03-26 | Not specified | Private search | $15 USD per 1000 queries | Included |
+| [Superhighway](https://superhighway.walls.sh) | 2025-12-01 | Model-agnostic (use with any LLM) | JSON endpoints for /search, /news, /images, /scrape, /research; MCP server (npx -y superhighway-mcp) | Not token-based | Pay per call in USDC via x402 on Base, or free API key |
 
