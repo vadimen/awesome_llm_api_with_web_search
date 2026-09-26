@@ -25,4 +25,5 @@ Key aspects covered:
 | [InflectionAI](https://developers.inflection.ai/) | 2024-03-01 | Productivity Pi, Pi 3.0 | No Rate Limit | $2.50/1M input<br>$10/1M output | Included |
 | [Kagi FastGPT](https://help.kagi.com/kagi/api/search.html) | 2023-03-26 | Not specified | Private search | $15 USD per 1000 queries | Included |
 | [Superhighway](https://superhighway.walls.sh) | 2025-12-01 | Model-agnostic (use with any LLM) | JSON endpoints for /search, /news, /images, /scrape, /research; MCP server (npx -y superhighway-mcp) | Not token-based | Pay per call in USDC via x402 on Base, or free API key |
+| [Vend](https://extract.paypercall.dev) | 2026-09-24 | Model-agnostic (returns structured results to any LLM) | JSON endpoints for /web-search (DuckDuckGo), /extract (URL-to-markdown), /domain-info, /links, /table; MCP server; no API keys | Not token-based | 0.0001 XNO per call, feeless via x402 (Nano) |
 
