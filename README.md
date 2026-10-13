@@ -27,4 +27,5 @@ Key aspects covered:
 | [Superhighway](https://superhighway.walls.sh) | 2025-12-01 | Model-agnostic (use with any LLM) | JSON endpoints for /search, /news, /images, /scrape, /research; MCP server (npx -y superhighway-mcp) | Not token-based | Pay per call in USDC via x402 on Base, or free API key |
 | [Vend](https://extract.paypercall.dev) | 2026-09-24 | Model-agnostic (returns structured results to any LLM) | JSON endpoints for /web-search (DuckDuckGo), /extract (URL-to-markdown), /domain-info, /links, /table; MCP server; no API keys | Not token-based | 0.0001 XNO per call, feeless via x402 (Nano) |
 | [APIClaw](https://apiclaw.biz) | 2026-09-27 | Claude, GPT, Kimi, Qwen, DeepSeek, GLM | Flat-rate OpenAI-compatible AI API | $19–$129/mo | 50 free trial |
+| [looot](https://looot.ai) | 2026-09-25 | Model-agnostic (returns structured results to any LLM) | Remote MCP server (https://api.looot.ai/mcp) and REST API; web search, Google SERP, news, URL-to-text, plus company, people and email lookups; price shown before each call, failed calls are free | Not token-based | Pay per call from a prepaid balance (top up from $5), no subscription |
 
